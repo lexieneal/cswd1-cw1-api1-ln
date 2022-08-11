@@ -214,7 +214,7 @@ var hostels =[
 		"wifi": true,
 		"breakfast": true,
 		"curfew": "None",
-        "ratings": [],
+        "ratings": [5,1,2,3],
         "reviews" : [
             {"reviewer":"anon1", "review": "Very up to date and covers a lot of ground"},
             {"reviewer":"anon2", "review": "Comprehensive, but could be more clearly written"},
